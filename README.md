@@ -8,6 +8,10 @@
 
 ### Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [A Primer on Docker User Permissions](https://blog.bcbrookman.com/a-primer-on-docker-user-permissions.html)
+- [Thoughts on when to use Netmiko](https://blog.bcbrookman.com/thoughts-on-when-to-use-netmiko.html)
+- [Migrating to Pelican on Amazon S3](https://blog.bcbrookman.com/migrating-to-pelican-on-amazon-s3.html)
+- [Exploring Kubernetes Service Networking](https://blog.bcbrookman.com/exploring-kubernetes-service-networking.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -2,14 +2,11 @@
 <h3 align="center">A passionate network engineer and tinkerer</h3>
 
 - 🔭 I’m currently working on [building a new desk!](https://github.com/bcbrookman/IKEA-Homelabber-Desk)
-
 - 🌱 I’m currently learning **Ansible**
-
 - 📝 I regularly write articles at [https://blog.bcbrookman.com/](https://blog.bcbrookman.com/)
-
 - 💬 Ask me about **Networking, Python, and Linux**
 
-### Blogs posts
+### Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [building a new desk!](https://github.com/bcbrookman/homelab-desk)
 - 🌱 I’m currently learning **Ansible**
-- 💬 Ask me about **Networking, Python, and Linux**
+- 💬 Ask me about **Networking, Python, or Linux**
 
 ### Recent blog posts:
 <!-- BLOG-POST-LIST:START -->

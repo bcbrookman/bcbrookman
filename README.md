@@ -1,8 +1,8 @@
 <h1 align="center">👋 I'm Brian Brookman</h1>
 <h3 align="center">A passionate network engineer and tinkerer</h3>
 
-- 🔭 I’m currently working on [building a new desk!](https://github.com/bcbrookman/homelab-desk)
-- 🌱 I’m currently learning **Ansible**
+- 🔭 I’m currently working on [completing my new desk build!](https://github.com/bcbrookman/homelab-desk)
+- 🌱 I’m currently studying for **Cisco ENCOR**
 - 💬 Ask me about **Networking, Python, or Linux**
 
 ### Recent blog posts:

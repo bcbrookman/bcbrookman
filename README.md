@@ -7,10 +7,10 @@
 
 ### Recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [An Unwanted Adventure in Hard Drive Recovery](https://blog.bcbrookman.com/an-unwanted-adventure-in-hard-drive-recovery.html)
 - [A Primer on Docker User Permissions](https://blog.bcbrookman.com/a-primer-on-docker-user-permissions.html)
 - [Migrating to Pelican on Amazon S3](https://blog.bcbrookman.com/migrating-to-pelican-on-amazon-s3.html)
 - [Exploring Kubernetes Service Networking](https://blog.bcbrookman.com/exploring-kubernetes-service-networking.html)
-- [Building a Raspberry Pi K3s Cluster](https://blog.bcbrookman.com/Building-a-raspberry-pi-k3s-cluster.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

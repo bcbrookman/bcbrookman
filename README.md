@@ -6,10 +6,10 @@ A passionate network engineer and tinkerer</h3>
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bridging the Gap with STP TCNs](https://blog.bcbrookman.com/bridging-the-gap-with-stp-tcns.html)
 - [An Unwanted Adventure in Hard Drive Recovery](https://blog.bcbrookman.com/an-unwanted-adventure-in-hard-drive-recovery.html)
 - [A Primer on Docker User Permissions](https://blog.bcbrookman.com/a-primer-on-docker-user-permissions.html)
 - [Migrating to Pelican on Amazon S3](https://blog.bcbrookman.com/migrating-to-pelican-on-amazon-s3.html)
-- [Exploring Kubernetes Service Networking](https://blog.bcbrookman.com/exploring-kubernetes-service-networking.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

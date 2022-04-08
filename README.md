@@ -1,7 +1,8 @@
 # 👋 I'm Brian Brookman
-A passionate network engineer and tinkerer</h3>
+### A network engineer and generalist
 
-- 🌱 I’m currently studying for **Cisco ENCOR**
+- 🔭 I’m currently studying for **Cisco ENCOR**
+- 🌱 I’m currently learning how to [draw the rest of the owl](https://imgur.com/gallery/iEf4Fq5)
 - 💬 Ask me about **Networking, Python, or Linux**
 
 ## Recent blog posts

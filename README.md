@@ -1,7 +1,7 @@
 # 👋 I'm Brian Brookman
-### A network engineer and generalist
+### Network engineer and generalist
 
-- 🔭 I’m currently studying for [Cisco ENCOR](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/encor-350-401.html)
+- 🔭 I’m currently studying for the [F5 101 Exam](https://www.f5.com/services/certification#certificationlevels)
 - 🌱 I’m currently learning how to [draw the rest of the owl](https://imgur.com/gallery/iEf4Fq5)
 - 💬 Ask me about **Networking, Python, or Linux**
 

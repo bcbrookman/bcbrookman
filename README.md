@@ -1,7 +1,7 @@
 # 👋 I'm Brian Brookman
 ### Network engineer and generalist
 
-- 🔭 I’m currently studying for the [F5 101 Exam](https://www.f5.com/services/certification#certificationlevels)
+- 🔭 I’m currently studying for the [F5 201 Exam](https://www.f5.com/services/certification#certificationlevels)
 - 🌱 I’m currently learning how to [draw the rest of the owl](https://imgur.com/gallery/iEf4Fq5)
 - 💬 Ask me about **Networking, Python, or Linux**
 

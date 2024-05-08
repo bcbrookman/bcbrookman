@@ -6,10 +6,10 @@
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Updating Container Images the Flux GitOps way](https://blog.bcbrookman.com/updating-container-images-the-flux-gitops-way.html)
-- [Trying out Harvester HCI in my Homelab](https://blog.bcbrookman.com/trying-out-harvester-hci-in-my-homelab.html)
-- [What Even is a Link State Anyways?](https://blog.bcbrookman.com/what-even-is-a-link-state-anyways.html)
-- [Bridging the Gap with STP TCNs](https://blog.bcbrookman.com/bridging-the-gap-with-stp-tcns.html)
+- [Digital Garden](https://bcbrookman.com/notes/digital-garden/)
+- [Homepage](https://bcbrookman.com/)
+- [My Socials](https://bcbrookman.com/pages/my-socials/)
+- [Notes types in my Zettelkasten](https://bcbrookman.com/notes/note-types-in-my-zettelkasten/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

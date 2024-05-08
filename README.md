@@ -10,10 +10,11 @@ I help people build and operate scalable, resilient IT infrastructures.
 
 ## Updates from my website
 <!-- BLOG-POST-LIST:START -->
-- [Digital Garden](https://bcbrookman.com/notes/digital-garden/)
-- [Homepage](https://bcbrookman.com/)
-- [My Socials](https://bcbrookman.com/pages/my-socials/)
-- [Notes types in my Zettelkasten](https://bcbrookman.com/notes/note-types-in-my-zettelkasten/)
+- [Digital Garden](https://www.bcbrookman.com/notes/digital-garden/)
+- [Homepage](https://www.bcbrookman.com/)
+- [My Socials](https://www.bcbrookman.com/pages/my-socials/)
+- [Notes types in my Zettelkasten](https://www.bcbrookman.com/notes/note-types-in-my-zettelkasten/)
+- [Python&#39;s Pass-by-Object-Reference Paradigm](https://www.bcbrookman.com/posts/pythons-pass-by-object-reference-paradigm/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

@@ -4,11 +4,11 @@ on:
         - cron: '0 0 */3 * *'
 jobs: 
     update-readme-with-blog: 
-        name: "Update this repo's README with latest blog posts"
+        name: "Update this repo's README with latest posts"
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://blog.bcbrookman.com/feeds/all.atom.xml"
+                feed_list: "https://www.bcbrookman.com/feed.xml"

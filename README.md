@@ -3,8 +3,8 @@
 I help people build and operate scalable, resilient IT infrastructures.
 
 - 🔭 I’m currently working on [updating my homelab](https://github.com/bcbrookman/homelab)
-- 🌱 I’m currently learning more about **Azure**
-- 📝 I regularly write articles at [www.bcbrookman.com](https://www.bcbrookman.com)
+- 🌱 I’m currently learning to [draw the rest of the owl](https://imgur.com/gallery/iEf4Fq5)
+- 📝 I regularly write stuff at [www.bcbrookman.com](https://www.bcbrookman.com)
 - 💬 Ask me about **networking, cloud, or Kubernetes!**
 - ⚡ Fun fact: **I ❤️ 🐈s**
 
@@ -19,8 +19,9 @@ I help people build and operate scalable, resilient IT infrastructures.
 
 ## Connect with me
 <p align="left">
-<a href="https://twitter.com/bcbrookman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bcbrookman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bcbrookman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bcbrookman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bcbrookman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="30" /></a>
+<a href="https://mastodon.social/@bcbrookman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/mastodon.svg" alt="Mastodon logo" height="30" /></a>
+<a href="https://twitter.com/bcbrookman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter logo" height="30" /></a>
 </p>
 
 ---

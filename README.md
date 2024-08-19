@@ -10,11 +10,11 @@ I help people build and operate scalable, resilient IT infrastructures.
 
 ## Updates from my website
 <!-- BLOG-POST-LIST:START -->
-- [Digital Garden](https://www.bcbrookman.com/notes/digital-garden/)
+- [The 80-20 Principle](https://www.bcbrookman.com/notes/1723691984/)
+- [Deliberate Practice](https://www.bcbrookman.com/notes/1723697987/)
+- [My Hobbies](https://www.bcbrookman.com/pages/my-hobbies/)
 - [Homepage](https://www.bcbrookman.com/)
 - [My Socials](https://www.bcbrookman.com/pages/my-socials/)
-- [Notes types in my Zettelkasten](https://www.bcbrookman.com/notes/note-types-in-my-zettelkasten/)
-- [Python&#39;s Pass-by-Object-Reference Paradigm](https://www.bcbrookman.com/posts/pythons-pass-by-object-reference-paradigm/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

@@ -13,8 +13,8 @@ I help people build and operate scalable, resilient IT infrastructures.
 - [Homepage](https://www.bcbrookman.com/)
 - [Finding the largest files in Linux filesystems](https://www.bcbrookman.com/notes/1723834942/)
 - [Linux doesn&#39;t have a kernel level tcp idle timeout timer](https://www.bcbrookman.com/notes/1723834850/)
-- [Making sense of file permissions in Docker containers](https://www.bcbrookman.com/posts/making-sense-of-file-permissions-in-docker-containers/)
 - [The 80-20 Principle](https://www.bcbrookman.com/notes/1723691984/)
+- [Deliberate Practice](https://www.bcbrookman.com/notes/1723697987/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

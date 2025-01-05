@@ -2,7 +2,7 @@
 
 I help people build and operate scalable, resilient IT infrastructures.
 
-- 🔭 I’m currently working on [updating my homelab](https://github.com/bcbrookman/homelab)
+- 🔭 I’m currently working on [updating my homelab](https://github.com/users/bcbrookman/projects/1)
 - 🌱 I’m currently learning to [draw the rest of the owl](https://imgur.com/gallery/iEf4Fq5)
 - 📝 I regularly write stuff at [www.bcbrookman.com](https://www.bcbrookman.com)
 - 💬 Ask me about **networking, cloud, or Kubernetes!**

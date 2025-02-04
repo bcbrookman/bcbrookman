@@ -1,4 +1,4 @@
-# Hi 👋, I'm Brian
+# Hi, I'm Brian!
 
 I help people build and operate scalable, resilient IT infrastructures.
 

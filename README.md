@@ -10,11 +10,11 @@ I help people build and operate scalable, resilient IT infrastructures.
 
 ## Updates from my website
 <!-- BLOG-POST-LIST:START -->
-- [Homepage](https://www.bcbrookman.com/)
-- [Finding the largest files in Linux filesystems](https://www.bcbrookman.com/notes/1723834942/)
-- [Linux doesn&#39;t have a kernel level tcp idle timeout timer](https://www.bcbrookman.com/notes/1723834850/)
-- [The 80-20 Principle](https://www.bcbrookman.com/notes/1723691984/)
-- [Deliberate Practice](https://www.bcbrookman.com/notes/1723697987/)
+- [Term Notes](https://www.bcbrookman.com/notes/1738774876/)
+- [Reference Notes](https://www.bcbrookman.com/notes/1738776394/)
+- [Project Notes](https://www.bcbrookman.com/notes/1738775635/)
+- [Permanent Notes](https://www.bcbrookman.com/notes/1738776168/)
+- [Note types in my Zettelkasten system](https://www.bcbrookman.com/notes/1738564788/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

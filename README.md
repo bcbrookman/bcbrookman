@@ -10,11 +10,11 @@ I help people build and operate scalable, resilient IT infrastructures.
 
 ## Updates from my website
 <!-- BLOG-POST-LIST:START -->
+- [Spurin, J. &lpar;2025, January&rpar;. Kubernetes Certified &lpar;KCNA&rpar; + Hands On Labs + Practice Exams. Udemy.](https://www.bcbrookman.com/notes/1738788354/)
+- [Loose coupling helps to reduce toil](https://www.bcbrookman.com/notes/1739846557/)
+- [My notetaking workflow](https://www.bcbrookman.com/notes/1723552772/)
 - [Term Notes](https://www.bcbrookman.com/notes/1738774876/)
 - [Reference Notes](https://www.bcbrookman.com/notes/1738776394/)
-- [Project Notes](https://www.bcbrookman.com/notes/1738775635/)
-- [Permanent Notes](https://www.bcbrookman.com/notes/1738776168/)
-- [Note types in my Zettelkasten system](https://www.bcbrookman.com/notes/1738564788/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

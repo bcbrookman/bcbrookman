@@ -15,4 +15,4 @@ jobs:
                 feed_list: "https://www.bcbrookman.com/feed.xml"
                 item_exec: |
                            // console.log(item)
-                           if (!(item.link.match("\/post\/")) post = null;
+                           if (!(item.link.match("\/posts\/")) post = null;

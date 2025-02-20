@@ -11,7 +11,7 @@ I help people build and operate scalable, resilient IT infrastructures.
 ## Updates from my website
 <!-- BLOG-POST-LIST:START -->
 - [All Published Posts](https://www.bcbrookman.com/posts/)
-- [Updating Container Images the Flux GitOps way](https://www.bcbrookman.com/posts/Updating Container Images the Flux GitOps way/)
+- [Updating Container Images the Flux GitOps way](https://www.bcbrookman.com/posts/updating-container-images-the-flux-gitops-way/)
 - [Trying out Harvester HCI in my Homelab](https://www.bcbrookman.com/posts/trying-out-harvester-hci-in-my-homelab/)
 - [What Even is a Link State Anyways](https://www.bcbrookman.com/posts/what-even-is-a-link-state-anyways/)
 - [An Unwanted Adventure in Hard Drive Recovery](https://www.bcbrookman.com/posts/an-unwanted-adventure-in-hard-drive-recovery/)

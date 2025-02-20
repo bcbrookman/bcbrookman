@@ -10,11 +10,11 @@ I help people build and operate scalable, resilient IT infrastructures.
 
 ## Updates from my website
 <!-- BLOG-POST-LIST:START -->
-- [Spurin, J. &lpar;2025, January&rpar;. Kubernetes Certified &lpar;KCNA&rpar; + Hands On Labs + Practice Exams. Udemy.](https://www.bcbrookman.com/notes/1738788354/)
-- [Loose coupling helps to reduce toil](https://www.bcbrookman.com/notes/1739846557/)
-- [My notetaking workflow](https://www.bcbrookman.com/notes/1723552772/)
-- [Term Notes](https://www.bcbrookman.com/notes/1738774876/)
-- [Reference Notes](https://www.bcbrookman.com/notes/1738776394/)
+- [All Published Posts](https://www.bcbrookman.com/posts/)
+- [Updating Container Images the Flux GitOps way](https://www.bcbrookman.com/posts/Updating Container Images the Flux GitOps way/)
+- [Trying out Harvester HCI in my Homelab](https://www.bcbrookman.com/posts/trying-out-harvester-hci-in-my-homelab/)
+- [What Even is a Link State Anyways](https://www.bcbrookman.com/posts/what-even-is-a-link-state-anyways/)
+- [An Unwanted Adventure in Hard Drive Recovery](https://www.bcbrookman.com/posts/an-unwanted-adventure-in-hard-drive-recovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me

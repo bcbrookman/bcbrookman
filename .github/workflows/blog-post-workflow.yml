@@ -14,5 +14,5 @@ jobs:
                 max_post_count: "5"
                 feed_list: "https://www.bcbrookman.com/feed.xml"
                 item_exec: |
-                           // Exclude items without /post/ or /posts/ in their link
-                           if (!(item.link.match("\/posts?\/"))) post = null;
+                           // Only include feed items from /posts/
+                           if (!(item.link.match("\/posts\/.+"))) post = null;

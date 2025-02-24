@@ -21,8 +21,6 @@ I help people build and operate scalable, resilient IT infrastructures.
 <p align="left">
 <a href="https://linkedin.com/in/bcbrookman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="30" /></a>
 <a href="https://mastodon.social/@bcbrookman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/mastodon.svg" alt="Mastodon logo" height="30" /></a>
-<a href="https://twitter.com/bcbrookman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter logo" height="30" /></a>
-</p>
 
 ---
 

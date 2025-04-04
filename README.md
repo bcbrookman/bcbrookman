@@ -22,5 +22,5 @@ I help people build and operate scalable, resilient IT infrastructures.
 ---
 
 <span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bcbrookman&theme=transparent&hide_border=false&disable_animations=true&hide_rank=false" /></span>
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcbrookman&theme=transparent&hide_border=false&layout=compact&langs_count=8&card_width=320" /></span>
+<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcbrookman&theme=transparent&hide_border=false&disable_animations=true&layout=compact&langs_count=8&card_width=330" /></span>
 <p> <img src="https://komarev.com/ghpvc/?username=bcbrookman&label=Profile%20views&color=grey&style=plastic" alt="bcbrookman" /> </p>

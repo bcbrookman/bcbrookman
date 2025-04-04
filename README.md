@@ -24,5 +24,6 @@ I help people build and operate scalable, resilient IT infrastructures.
 <a href="https://mastodon.social/@bcbrookman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/mastodon.svg" alt="Mastodon logo" height="30" /></a>
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bcbrookman&label=Profile%20views&color=0e75b6&style=flat" alt="bcbrookman" /> </p>
+<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bcbrookman&theme=transparent&hide_border=false&disable_animations=true&hide_rank=true" /></span>
+<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcbrookman&theme=transparent&hide_border=false&layout=compact&langs_count=8&card_width=320" /></span>
+<p> <img src="https://komarev.com/ghpvc/?username=bcbrookman&label=Profile%20views&color=grey&style=plastic" alt="bcbrookman" /> </p>

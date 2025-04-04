@@ -6,6 +6,7 @@ I help people build and operate scalable, resilient IT infrastructures.
 - 🌱 I’m currently learning to [draw the rest of the owl](https://imgur.com/gallery/iEf4Fq5)
 - 📖 I'm currently reading [these books](https://www.goodreads.com/review/list/172255177?shelf=currently-reading)
 - 📝 I write stuff regularly at [www.bcbrookman.com](https://www.bcbrookman.com)
+- 🔗 Connect with me on [my other profiles](https://socials.bcbrookman.com)
 - 💬 Ask me about **networking, cloud, or Kubernetes!**
 - ⚡ Fun fact: **I ❤️ 🐈s**
 
@@ -18,12 +19,8 @@ I help people build and operate scalable, resilient IT infrastructures.
 - [Making sense of file permissions in Docker containers](https://www.bcbrookman.com/posts/making-sense-of-file-permissions-in-docker-containers/)
 <!-- BLOG-POST-LIST:END -->
 
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/bcbrookman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="30" /></a>
-<a href="https://mastodon.social/@bcbrookman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/mastodon.svg" alt="Mastodon logo" height="30" /></a>
-
 ---
+
 <span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bcbrookman&theme=transparent&hide_border=false&disable_animations=true&hide_rank=true" /></span>
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcbrookman&theme=transparent&hide_border=false&layout=compact&langs_count=8&card_width=320" /></span>
+<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcbrookman&theme=transparent&hide_border=false&layout=compact&langs_count=8&card_width=300" /></span>
 <p> <img src="https://komarev.com/ghpvc/?username=bcbrookman&label=Profile%20views&color=grey&style=plastic" alt="bcbrookman" /> </p>

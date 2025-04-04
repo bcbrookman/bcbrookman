@@ -11,6 +11,7 @@ I help people build and operate scalable, resilient IT infrastructures.
 - ⚡ Fun fact: **I ❤️ 🐈s**
 
 ## Updates from my website
+
 <!-- BLOG-POST-LIST:START -->
 - [Updating Container Images the Flux GitOps way](https://www.bcbrookman.com/posts/updating-container-images-the-flux-gitops-way/)
 - [Trying out Harvester HCI in my Homelab](https://www.bcbrookman.com/posts/trying-out-harvester-hci-in-my-homelab/)
@@ -22,5 +23,5 @@ I help people build and operate scalable, resilient IT infrastructures.
 ---
 
 <span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bcbrookman&theme=transparent&hide_border=false&disable_animations=true&hide_rank=false" /></span>
-<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcbrookman&theme=transparent&hide_border=false&disable_animations=true&layout=compact&langs_count=8&card_width=350" /></span>
+<span><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bcbrookman&theme=transparent&hide_border=false&disable_animations=true&layout=compact&langs_count=8&card_width=320" /></span>
 <p> <img src="https://komarev.com/ghpvc/?username=bcbrookman&label=Profile%20views&color=grey&style=plastic" alt="bcbrookman" /> </p>

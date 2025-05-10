@@ -14,10 +14,10 @@ I help people build and operate scalable, resilient IT infrastructures.
 
 <!-- BLOG-POST-LIST:START -->
 - [Updating Container Images the Flux GitOps way](https://www.bcbrookman.com/posts/updating-container-images-the-flux-gitops-way/)
+- [Exploring Kubernetes Service Networking](https://www.bcbrookman.com/posts/exploring-kubernetes-service-networking/)
+- [Building a Raspberry Pi K3s Cluster](https://www.bcbrookman.com/posts/building-a-raspberry-pi-k3s-cluster/)
 - [Trying out Harvester HCI in my Homelab](https://www.bcbrookman.com/posts/trying-out-harvester-hci-in-my-homelab/)
 - [What Even is a Link State Anyways](https://www.bcbrookman.com/posts/what-even-is-a-link-state-anyways/)
-- [An Unwanted Adventure in Hard Drive Recovery](https://www.bcbrookman.com/posts/an-unwanted-adventure-in-hard-drive-recovery/)
-- [Making sense of file permissions in Docker containers](https://www.bcbrookman.com/posts/making-sense-of-file-permissions-in-docker-containers/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

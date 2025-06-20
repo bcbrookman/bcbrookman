@@ -2,11 +2,11 @@
 
 I help people build and operate scalable, resilient IT infrastructures.
 
-- 🔭 I’m currently working on [updating my homelab](https://github.com/users/bcbrookman/projects/1)
-- 🌱 I’m currently learning to [draw the rest of the owl](https://imgur.com/gallery/iEf4Fq5)
+- 🔭 I’m currently working on [migrating to Talos in my homelab](https://github.com/users/bcbrookman/projects/1)
+- 🌱 I’m currently studying to become a [Kubestronaut](https://www.cncf.io/training/kubestronaut/) (80% there!)
 - 📖 I'm currently reading [these books](https://www.goodreads.com/review/list/172255177?shelf=currently-reading)
 - 📝 I write stuff regularly at [www.bcbrookman.com](https://www.bcbrookman.com)
-- 🔗 Connect with me on [my other profiles](https://socials.bcbrookman.com)
+- 🔗 Connect with me on [my other profiles](https://profiles.bcbrookman.com)
 - 💬 Ask me about **networking, cloud, or Kubernetes!**
 - ⚡ Fun fact: **I ❤️ 🐈s**
 

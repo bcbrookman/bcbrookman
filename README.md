@@ -15,9 +15,9 @@ I help people build and operate scalable, resilient IT infrastructures.
 <!-- BLOG-POST-LIST:START -->
 - [Updating Container Images the Flux GitOps way](https://www.bcbrookman.com/posts/updating-container-images-the-flux-gitops-way/)
 - [Exploring Kubernetes Service Networking](https://www.bcbrookman.com/posts/exploring-kubernetes-service-networking/)
-- [Building a Raspberry Pi K3s Cluster](https://www.bcbrookman.com/posts/building-a-raspberry-pi-k3s-cluster/)
-- [Trying out Harvester HCI in my Homelab](https://www.bcbrookman.com/posts/trying-out-harvester-hci-in-my-homelab/)
 - [What Even is a Link State Anyways](https://www.bcbrookman.com/posts/what-even-is-a-link-state-anyways/)
+- [Trying out Harvester HCI in my Homelab](https://www.bcbrookman.com/posts/trying-out-harvester-hci-in-my-homelab/)
+- [Routed Ports, Switched Ports, and SVIs](https://www.bcbrookman.com/posts/routed-ports-switched-ports-and-svis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

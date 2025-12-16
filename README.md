@@ -13,11 +13,11 @@ I help people build and operate scalable, resilient IT infrastructures.
 ## Updates from my website
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking on the Azure Cloud Resume Challenge](https://www.bcbrookman.com/posts/taking-on-the-azure-cloud-resume-challenge/)
 - [Updating Container Images the Flux GitOps way](https://www.bcbrookman.com/posts/updating-container-images-the-flux-gitops-way/)
 - [Exploring Kubernetes Service Networking](https://www.bcbrookman.com/posts/exploring-kubernetes-service-networking/)
 - [What Even is a Link State Anyways](https://www.bcbrookman.com/posts/what-even-is-a-link-state-anyways/)
 - [Trying out Harvester HCI in my Homelab](https://www.bcbrookman.com/posts/trying-out-harvester-hci-in-my-homelab/)
-- [Routed Ports, Switched Ports, and SVIs](https://www.bcbrookman.com/posts/routed-ports-switched-ports-and-svis/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

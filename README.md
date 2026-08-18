@@ -2,7 +2,7 @@
 
 I help people build and operate scalable, resilient IT infrastructures.
 
-- 🔭 I’m currently working on [The Azure Cloud Resume Challenge](https://www.bcbrookman.com/posts/taking-on-the-azure-cloud-resume-challenge/)
+- 🔭 I’m currently working on [HomeOps](https://github.com/bcbrookman/homeops) updates
 - 🌱 I’m currently studying for the [Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) exam
 - 📖 I'm currently reading [these books](https://www.goodreads.com/review/list/172255177?shelf=currently-reading)
 - 📝 I write stuff regularly at [www.bcbrookman.com](https://www.bcbrookman.com)
